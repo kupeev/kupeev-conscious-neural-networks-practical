@@ -49,10 +49,13 @@ V, see [4]
 
 Folder /code/ contains the Python scripts for [4].
 
+code_description.pdf there 
+contains description of the 
+code for the paper.
+
 The code provided in this 
 repository is offered on an "as-is" 
 basis and without any warranty. 
-You may use this code at your own risk.
 
 #### The Literature
 
