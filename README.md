@@ -4,7 +4,7 @@
 
 *David Kupeev (kupeev@gmail.com)*
 <br>
-*Eyal Nitcany (eyalni@gmail.com)* 
+*Eyal Nitzany (eyalni@gmail.com)* 
 
 
 - [In Brief](#in-brief)
@@ -75,7 +75,7 @@ arXiv:1903.08333](https://www.researchgate.net/publication/335946241_On_the_Robu
 SEBD 2020](https://ceur-ws.org/Vol-2646/47-paper.pdf)
 
 [4]
-[David Kupeev and Eyal Nitcany,
+[David Kupeev and Eyal Nitzany,
 "Interpretable Semiotics Networks Representing Awareness",
 arXiv 2310.05212, 2023](https://arxiv.org/abs/2310.05212)
 
